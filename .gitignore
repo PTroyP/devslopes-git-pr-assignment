@@ -1,2 +1,6 @@
 # env files
 .env.local
+.env.production.local
+
+# bug tracking files
+app.js
